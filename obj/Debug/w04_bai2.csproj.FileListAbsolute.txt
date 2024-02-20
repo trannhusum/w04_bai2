@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\w04_bai2\bin\Debug\w04_bai2.exe.config
+D:\visual studio\Csharp\w04_bai2\bin\Debug\w04_bai2.exe
+D:\visual studio\Csharp\w04_bai2\bin\Debug\w04_bai2.pdb
+D:\visual studio\Csharp\w04_bai2\obj\Debug\w04_bai2.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\w04_bai2\obj\Debug\w04_bai2.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\w04_bai2\obj\Debug\w04_bai2.exe
+D:\visual studio\Csharp\w04_bai2\obj\Debug\w04_bai2.pdb
